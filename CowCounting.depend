@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1693946071 source:c:\users\asus\documents\github\cowcounter\cowcountercpp\cowcounting\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	<iostream>
+	<random>
+	<string>
+	<time.h>
+
